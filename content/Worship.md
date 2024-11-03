@@ -1,8 +1,8 @@
 ---
 title: Worship
 description: 
-draft: 
-date:
+draft: true
+date: 
 author: Travis Watson
 ---
 # Worship
