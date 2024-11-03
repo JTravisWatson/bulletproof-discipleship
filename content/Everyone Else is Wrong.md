@@ -12,7 +12,7 @@ Progress: <progress  max="100" value="25"></progress>
 > [!bible]+
 >  <sup> **24** </sup>Do not judge according to appearance, but practice righteous judgment.”
 > 
-  John 7:24 - MEV
+> John 7:24 - MEV
 
 
 - Don't read the title and think this is a political writeup, it's far nerdier than that: math and human behavior
