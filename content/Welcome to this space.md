@@ -1,7 +1,7 @@
 ---
 title: Welcome to this space
 description: homepage and about the site
-draft: false
+draft: true
 suthor: Travis Watson
 ---
 
